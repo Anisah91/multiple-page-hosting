@@ -1,0 +1,20 @@
+body {
+  background: #f7e8a6;
+}
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  display: block;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+}
